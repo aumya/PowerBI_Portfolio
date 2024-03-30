@@ -7,7 +7,7 @@ The Dashboard Contains Overview of -
 ⦿ Top 5 Customer, Top 5 Product by Revenue
 ⦿ Filter by Years, Months and Dates
 ![Sales Insight](https://github.com/aumya/PowerBI_Portfolio/assets/55890070/37453f5a-d5a2-4717-9fe5-81b214db7943)
-## Source Data: Amazon Prime Data 
+## Source Data: Amazon Prime Movies and TV Shows 
 The Dashboard Contains Overview of -
 ⦿ Total Shows by Country (Using Filled Map)
 ⦿ Donut Chart that shows the populatity percentage of Movies vs TV shows
