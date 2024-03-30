@@ -10,8 +10,9 @@ The Dashboard Contains Overview of -
 ## Source Data: Amazon Prime Movies and TV Shows 
 The Dashboard Contains Overview of -
 ⦿ Total Shows by Country (Using Filled Map)
-⦿ Donut Chart that shows the populatity percentage of Movies vs TV shows
-⦿ Area Chart that depicts the increasing number of Movies and TV shows over the years (1920-2021)
-⦿ Two bar charts reflecting the ratings and genres of total shows on Amazon Prime  
-⦿ Interactive Cards showcasing the total number of shows, movie genres, directors and release date minimum and maximum
+⦿ Donut Chart illustrating the popularity percentage of Movies vs TV shows
+⦿ Area Chart depicting the historical growth of Movies and TV shows (1920-2021)
+⦿ Two bar charts showcasing ratings and genres across all shows on Amazon Prime  
+⦿ Interactive Cards offering insights into total show count, movie genres, directors, and release date ranges.
 ![Dashboard_Amazon Prime](https://github.com/aumya/PowerBI_Portfolio/assets/55890070/b279678b-f959-46ae-b4f4-9794afd1985e)
+
